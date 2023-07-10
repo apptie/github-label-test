@@ -5,12 +5,14 @@ body:
   - type: textarea
     attributes:
       label: 🙋🏻 참가 인원
-			required: true
+    validations:
+      required: true
       description: 회의에 참여할 인원을 작성해 주세요.
   - type: textarea
     attributes:
       label: ⏰ 회의 시간
-			required: true
+    validations:
+      required: true
       description: 회의 날짜와 시간을 입력해 주세요.
   - type: textarea
     attributes:
