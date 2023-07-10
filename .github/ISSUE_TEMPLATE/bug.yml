@@ -28,11 +28,11 @@ body:
     attributes:
       label: 🙋🏻 버그 재현 방법
       description: Given-When-Then 형식으로 버그를 재현할 수 있는 방법에 대해 작성해 주세요.
-		validations:
+    validations:
       required: false
 	- type: textarea
     attributes:
       label: 🙋🏻 참고 자료
       description: 발생한 버그에 대한 참고 자료가 있다면 작성해 주세요.
-		validations:
+    validations:
       required: false
