@@ -4,7 +4,7 @@ labels: "\U0001F528 Refactor"
 body:
   - type: textarea
     attributes:
-      label: 🔨 설명
+      label: 🛠️ 설명
       description: 리팩터링에 대한 필요성을 설명해 주세요.
       placeholder: 자세히 적을수록 좋습니다!
     validations:
