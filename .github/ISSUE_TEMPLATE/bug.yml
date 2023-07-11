@@ -36,3 +36,15 @@ body:
       description: 발생한 버그에 대한 참고 자료가 있다면 작성해 주세요.
     validations:
       required: false
+  - type: textarea
+    attributes:
+      label: ⏰ 추정 시간
+      description: 버그를 해결하기 위한 추정 시간에 대해 작성해주세요.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: ⏰ 소요 시간
+      description: 버그 해결 소요 시간에 대해 작성해주세요.
+    validations:
+      required: true

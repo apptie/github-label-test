@@ -20,3 +20,15 @@ body:
     attributes:
       label: 🙋🏻 참고 자료
       description: 추가적인 환경설정에 대한 참고 자료가 있다면 작성해 주세요.
+  - type: textarea
+    attributes:
+      label: ⏰ 추정 시간
+      description: 환경설정을 추가하기 위한 추정 시간에 대해 작성해주세요.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: ⏰ 소요 시간
+      description: 환경설정 추가 소요 시간에 대해 작성해주세요.
+    validations:
+      required: true
