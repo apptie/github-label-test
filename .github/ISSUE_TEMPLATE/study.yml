@@ -1,8 +1,8 @@
-name: "✏️ Study"
+name: "🤓 Study"
 description: "팀원들과 같이 스터디 할 내용이 있나요?"
-labels: "✏️ Study"
+labels: "🤓 Study"
 body:
-  - type: ✏️
+  - type: 🤓
     attributes:
       label: 🙋🏻 참가 인원
     validations:
